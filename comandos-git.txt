@@ -1,0 +1,9 @@
+git init -> criando o repositório local
+
+git remote add origin 'link do repositório remoto do github'
+
+git add . -> para adicionar na stage area
+
+git commit -m "mensagem de commit"
+
+git push origin main
